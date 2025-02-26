@@ -18,7 +18,7 @@ Welcome to my collection of AWS setup guides. This repository provides step-by-s
 
 - [AWS Lambda Sales Analysis Report](https://github.com/Thitiat-Pidtatasang/AWS-Setup-Guides/tree/main/AWS-Lambda-Sales-Analysis-Report-Automation)  
   *Learn how to automate sales analysis reports using AWS Lambda. Covers function setup, integration with AWS services, and data processing workflows.*
-- [AWS RDS Migration Guide](https://github.com/Thitiat-Pidtatasang/AWS-Setup-Guides/tree/main/AWS-RDS-Migration)  
+- [AWS RDS Migration Guide](https://github.com/Thitiat-Pidtatasang/AWS-Setup-Guides/tree/main/AWS%20RDS%20Migration)  
   *Step-by-step guide to migrating a MySQL database from an EC2 instance to Amazon RDS (MariaDB). Covers infrastructure setup, data backup/restore, app reconfiguration, and monitoring.*
 
 ## How to Use
